@@ -8,9 +8,9 @@ More information about the team : [Saunders Lab website](https://mechanochemistr
 
 ### 2023 
 
-<!--- **The positioning mechanics of microtubule asters in Drosophila embryo explants.**  
+**The positioning mechanics of microtubule asters in Drosophila embryo explants.**  
 Jorge de-Carvalho, Sham Tlili, Timothy E. Saunders, Ivo A. Telley  
-[Repository](https://github.com/TimSaundersLab/Aster-Repulsion-Codes) -->
+[Repository](https://github.com/TimSaundersLab/Aster-Repulsion-Codes)
 
 
 **Curvature-induced cell rearrangements in biological tissues.**  
