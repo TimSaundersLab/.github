@@ -7,10 +7,10 @@ More information about the team : [Saunders Lab website](https://mechanochemistr
 <hr/>  
 
 ### 2024  
-<!--
+
 **The positioning mechanics of microtubule asters in Drosophila embryo explants.**  
 Jorge de-Carvalho, Sham Tlili, Timothy E. Saunders, Ivo A. Telley  
-[Repository](https://github.com/TimSaundersLab/Aster-Repulsion-Codes) -->
+[Repository](https://github.com/TimSaundersLab/Aster-Repulsion-Codes) 
 
 **Long-range formation of the Bicoid gradient requires multiple dynamic modes that spatially vary across the embryo.**  
 Thamarailingam Athilingam, Ashwin V. S. Nelanuthala, Catriona Breen, Narain Karedla, Marco Fritzsche, Thorsten Wohland, Timothy E. Saunders  
