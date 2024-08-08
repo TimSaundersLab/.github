@@ -6,10 +6,10 @@ More information about the team : [Saunders Lab website](https://mechanochemistr
 
 <hr/>  
 
-### 2024  
-**Receptor binding and tissue architecture explains the morphogen local-to-global diffusion coefficient transition.**
-Shiwen Zhu, Yi Ting Loo, Sapthaswaran Veerapathiran, Tricia Y. J. Loo, Bich Ngoc Tran, Cathleen Teh, Jun Zhong, Paul T. Matsudaira, Timothy E Saunders, and Thorsten Wohland
-[Repository](https://github.com/TimSaundersLab/image_based_particle_model)
+### 2024
+**Receptor binding and tissue architecture explains the morphogen local-to-global diffusion coefficient transition.**  
+Shiwen Zhu, Yi Ting Loo, Sapthaswaran Veerapathiran, Tricia Y. J. Loo, Bich Ngoc Tran, Cathleen Teh, Jun Zhong, Paul T. Matsudaira, Timothy E Saunders, Thorsten Wohland  
+[Repository](https://github.com/TimSaundersLab/image_based_particle_model) 
 
 **The positioning mechanics of microtubule asters in Drosophila embryo explants.**  
 Jorge de-Carvalho, Sham Tlili, Timothy E. Saunders, Ivo A. Telley  
