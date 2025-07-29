@@ -7,8 +7,13 @@ More information about the team : [Saunders Lab website](https://mechanochemistr
 <hr/>  
 
 ### 2025
+**Boundary constraints can determine pattern emergence.**  
+Yi Ting Loo*, Juliet Chen*, Ryan Harrison, Tiago Rito, Sophie Theis, Guillaume Charras, James Briscoe, Timothy E. Saunders  
+[Repository simulation](https://github.com/TimSaundersLab/posterior_neuruloid_patterning)  
+[Repository segmentation](https://github.com/TimSaundersLab/posterior_neuruloid_patterning_segmentation) 
+
 **CellMet: Extracting 3D shape and topology metrics from confluent cells within tissues.**  
-Sophie Theis1, Mario A Mendieta-Serrano, Bernardo Chapa-y-Lazo, Juliet Chen,Timothy E Saunders  
+Sophie Theis, Mario A Mendieta-Serrano, Bernardo Chapa-y-Lazo, Juliet Chen,Timothy E Saunders  
 [Repository](https://github.com/TimSaundersLab/CellMet) 
 
 
