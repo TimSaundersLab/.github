@@ -4,6 +4,15 @@ Here you will find the repositories associated to papers published by Timothy Sa
 
 More information about the team : [Saunders Lab website](https://mechanochemistry.org/Saunders/MainSite/Saunders_lab_v4_3.htm)
 
+
+<hr/>  
+
+### 2026
+**Identification of optimal fluorophores for use in the Drosophila embryo.**  
+Bernardo Chapa-y-Lazo, Thamarailingam Athilingam, Prabhat Tiwari, Prachi Pathak, Shaobo Zhang, Sophie Theis, and Timothy E Saunders.
+[Repository](https://github.com/TimSaundersLab/Drosophila_Fluorophores)
+
+
 <hr/>  
 
 ### 2025
