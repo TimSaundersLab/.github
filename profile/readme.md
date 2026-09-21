@@ -8,6 +8,10 @@ More information about the team : [Saunders Lab website](https://mechanochemistr
 <hr/>  
 
 ### 2026
+**A putative structural transition underlies reliable formation of skeletal muscle.**<br>
+Mario A. Mendieta-Serrano, Yiqi Hou, Sophie Theis, Thomas E. Hall, Shannon E. Taylor, Berta Verd, Robert G. Parton, and Timothy E. Saunders.<br>
+[Repository](https://github.com/TimSaundersLab/MusclePacking)
+
 **Identification of optimal fluorophores for use in the Drosophila embryo.**  
 Bernardo Chapa-y-Lazo, Thamarailingam Athilingam, Prabhat Tiwari, Prachi Pathak, Shaobo Zhang, Sophie Theis, and Timothy E Saunders.
 [Repository](https://github.com/TimSaundersLab/Drosophila_Fluorophores)
